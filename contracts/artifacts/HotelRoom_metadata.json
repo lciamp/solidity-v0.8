@@ -41,7 +41,7 @@
 				"name": "currentStatus",
 				"outputs": [
 					{
-						"internalType": "enum HotellRoom.Statuses",
+						"internalType": "enum HotelRoom.Statuses",
 						"name": "",
 						"type": "uint8"
 					}
@@ -76,7 +76,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/HotelRoom.sol": "HotellRoom"
+			"contracts/HotelRoom.sol": "HotelRoom"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -91,11 +91,11 @@
 	},
 	"sources": {
 		"contracts/HotelRoom.sol": {
-			"keccak256": "0x5bc72837d0bce6d68dc658120f1a5b0bb1040a78b2abc76205ea7cc72224d7e0",
+			"keccak256": "0xa0f8c4499de61cf634d35c1aaae14a387accdd848a4e84026189561f9163661c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://70ce2611ac57969b407a2e4eefb7dab919b1715275425eb185c977c92c43e2aa",
-				"dweb:/ipfs/Qmb1LbWsSGWmxU8STidUEQQcZ4CtirUVcNQoj5bLHes4Ny"
+				"bzz-raw://460b739822bac12713fc2a3254525f5061b29fd89140aaa19970ff31f67c1476",
+				"dweb:/ipfs/QmTkXPYRx66Rgb2DJScSVur84SxwBDeznkS6jvo6aBQSsX"
 			]
 		}
 	},
